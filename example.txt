@@ -1,0 +1,17 @@
+<div class="col-sm-3">
+          <div class="form-check">
+            <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios1" value="option1" checked />
+            <label class="form-check-label" for="gridRadios1"> Zico Permadi, MD </label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios2" value="option2" />
+            <label class="form-check-label" for="gridRadios2"> Tri widyastuti </label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios3" value="option3" />
+            <label class="form-check-label" for="gridRadios3"> Novia </label>
+          </div>
+        </div>
+
+
+        

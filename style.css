@@ -1,0 +1,30 @@
+/* css navigasi bar */
+.navbar {
+  background-color: aquamarine;
+}
+
+/* kontainer anamnesa */
+.Anamnesa {
+  margin-top: 5rem;
+}
+
+.btntambah {
+  border-radius: 10px;
+}
+
+/* tombol whatsapp modal dan bantuan */
+.buttonBantuan {
+  position: fixed;
+  z-index: 99999;
+  height: 50px;
+  width: 50px;
+  background-color: rgb(97, 148, 97);
+  bottom: 1%;
+  left: 1%;
+  border-radius: 50%;
+  font-size: 25px;
+}
+
+.modal-title {
+  font-size: 30px;
+}
